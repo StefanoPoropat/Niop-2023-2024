@@ -1,0 +1,10 @@
+C:\Users\Stefano\source\repos\checkBoxKontrola06\checkBoxKontrola06\bin\Debug\checkBoxKontrola06.exe.config
+C:\Users\Stefano\source\repos\checkBoxKontrola06\checkBoxKontrola06\bin\Debug\checkBoxKontrola06.exe
+C:\Users\Stefano\source\repos\checkBoxKontrola06\checkBoxKontrola06\bin\Debug\checkBoxKontrola06.pdb
+C:\Users\Stefano\source\repos\checkBoxKontrola06\checkBoxKontrola06\obj\Debug\checkBoxKontrola06.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\checkBoxKontrola06\checkBoxKontrola06\obj\Debug\checkBoxKontrola06.Form1.resources
+C:\Users\Stefano\source\repos\checkBoxKontrola06\checkBoxKontrola06\obj\Debug\checkBoxKontrola06.Properties.Resources.resources
+C:\Users\Stefano\source\repos\checkBoxKontrola06\checkBoxKontrola06\obj\Debug\checkBoxKontrola06.csproj.GenerateResource.cache
+C:\Users\Stefano\source\repos\checkBoxKontrola06\checkBoxKontrola06\obj\Debug\checkBoxKontrola06.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\checkBoxKontrola06\checkBoxKontrola06\obj\Debug\checkBoxKontrola06.exe
+C:\Users\Stefano\source\repos\checkBoxKontrola06\checkBoxKontrola06\obj\Debug\checkBoxKontrola06.pdb
