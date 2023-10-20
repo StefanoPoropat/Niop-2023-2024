@@ -1,0 +1,10 @@
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\pictureBox10\pictureBox10\bin\Debug\pictureBox10.exe.config
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\pictureBox10\pictureBox10\bin\Debug\pictureBox10.exe
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\pictureBox10\pictureBox10\bin\Debug\pictureBox10.pdb
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\pictureBox10\pictureBox10\obj\Debug\pictureBox10.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\pictureBox10\pictureBox10\obj\Debug\pictureBox10.Form1.resources
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\pictureBox10\pictureBox10\obj\Debug\pictureBox10.Properties.Resources.resources
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\pictureBox10\pictureBox10\obj\Debug\pictureBox10.csproj.GenerateResource.cache
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\pictureBox10\pictureBox10\obj\Debug\pictureBox10.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\pictureBox10\pictureBox10\obj\Debug\pictureBox10.exe
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\pictureBox10\pictureBox10\obj\Debug\pictureBox10.pdb
