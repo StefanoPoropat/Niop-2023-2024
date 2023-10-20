@@ -1,0 +1,10 @@
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\contextMenuStrip10\contextMenuStrip10\bin\Debug\contextMenuStrip10.exe.config
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\contextMenuStrip10\contextMenuStrip10\bin\Debug\contextMenuStrip10.exe
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\contextMenuStrip10\contextMenuStrip10\bin\Debug\contextMenuStrip10.pdb
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\contextMenuStrip10\contextMenuStrip10\obj\Debug\contextMenuStrip10.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\contextMenuStrip10\contextMenuStrip10\obj\Debug\contextMenuStrip10.Form1.resources
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\contextMenuStrip10\contextMenuStrip10\obj\Debug\contextMenuStrip10.Properties.Resources.resources
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\contextMenuStrip10\contextMenuStrip10\obj\Debug\contextMenuStrip10.csproj.GenerateResource.cache
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\contextMenuStrip10\contextMenuStrip10\obj\Debug\contextMenuStrip10.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\contextMenuStrip10\contextMenuStrip10\obj\Debug\contextMenuStrip10.exe
+C:\Users\Stefano\source\repos\trackBar-Timer-PictureBox-ImageList-ContextMenu10\contextMenuStrip10\contextMenuStrip10\obj\Debug\contextMenuStrip10.pdb
