@@ -1,0 +1,10 @@
+C:\Users\Stefano\source\repos\richTextBoxKontrola09\richTextBoxKontrola09\bin\Debug\richTextBoxKontrola09.exe.config
+C:\Users\Stefano\source\repos\richTextBoxKontrola09\richTextBoxKontrola09\bin\Debug\richTextBoxKontrola09.exe
+C:\Users\Stefano\source\repos\richTextBoxKontrola09\richTextBoxKontrola09\bin\Debug\richTextBoxKontrola09.pdb
+C:\Users\Stefano\source\repos\richTextBoxKontrola09\richTextBoxKontrola09\obj\Debug\richTextBoxKontrola09.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\richTextBoxKontrola09\richTextBoxKontrola09\obj\Debug\richTextBoxKontrola09.Form1.resources
+C:\Users\Stefano\source\repos\richTextBoxKontrola09\richTextBoxKontrola09\obj\Debug\richTextBoxKontrola09.Properties.Resources.resources
+C:\Users\Stefano\source\repos\richTextBoxKontrola09\richTextBoxKontrola09\obj\Debug\richTextBoxKontrola09.csproj.GenerateResource.cache
+C:\Users\Stefano\source\repos\richTextBoxKontrola09\richTextBoxKontrola09\obj\Debug\richTextBoxKontrola09.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\richTextBoxKontrola09\richTextBoxKontrola09\obj\Debug\richTextBoxKontrola09.exe
+C:\Users\Stefano\source\repos\richTextBoxKontrola09\richTextBoxKontrola09\obj\Debug\richTextBoxKontrola09.pdb
