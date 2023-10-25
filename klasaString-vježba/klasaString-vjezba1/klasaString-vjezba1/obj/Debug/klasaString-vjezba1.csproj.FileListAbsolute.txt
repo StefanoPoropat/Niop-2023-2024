@@ -1,7 +1,0 @@
-C:\Users\Stefano\source\repos\klasaString-vježba\klasaString-vjezba1\klasaString-vjezba1\bin\Debug\klasaString-vjezba1.exe.config
-C:\Users\Stefano\source\repos\klasaString-vježba\klasaString-vjezba1\klasaString-vjezba1\bin\Debug\klasaString-vjezba1.exe
-C:\Users\Stefano\source\repos\klasaString-vježba\klasaString-vjezba1\klasaString-vjezba1\bin\Debug\klasaString-vjezba1.pdb
-C:\Users\Stefano\source\repos\klasaString-vježba\klasaString-vjezba1\klasaString-vjezba1\obj\Debug\klasaString-vjezba1.csproj.AssemblyReference.cache
-C:\Users\Stefano\source\repos\klasaString-vježba\klasaString-vjezba1\klasaString-vjezba1\obj\Debug\klasaString-vjezba1.csproj.CoreCompileInputs.cache
-C:\Users\Stefano\source\repos\klasaString-vježba\klasaString-vjezba1\klasaString-vjezba1\obj\Debug\klasaString-vjezba1.exe
-C:\Users\Stefano\source\repos\klasaString-vježba\klasaString-vjezba1\klasaString-vjezba1\obj\Debug\klasaString-vjezba1.pdb
