@@ -28,8 +28,8 @@ namespace monthCalendarKontrola12
             }
             if(ts.Days >= 1)
             {
-                MessageBox.Show("Rezervirali ste usluge u trajanju od "+(ts.Days + 1).ToString() + " dana.", "Rezervacija");
-                MessageBox.Show("Vaša rezervacija počinje dana " +mC1.SelectionStart.ToShortDateString() + ", a završava dana " + mC1.SelectionEnd.ToShortDateString());
+                MessageBox.Show("Rezervirali ste usluge u trajanju od "+ (ts.Days + 1).ToString() + " dana.", "Rezervacija");
+                MessageBox.Show("Vaša rezervacija počinje dana " + mC1.SelectionStart.ToShortDateString() + ", a završava dana " + mC1.SelectionEnd.ToShortDateString());
             }
         }
 
