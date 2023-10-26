@@ -1,0 +1,10 @@
+C:\Users\Stefano\source\repos\klasaProcess14\klasaProcess14\bin\Debug\klasaProcess14.exe.config
+C:\Users\Stefano\source\repos\klasaProcess14\klasaProcess14\bin\Debug\klasaProcess14.exe
+C:\Users\Stefano\source\repos\klasaProcess14\klasaProcess14\bin\Debug\klasaProcess14.pdb
+C:\Users\Stefano\source\repos\klasaProcess14\klasaProcess14\obj\Debug\klasaProcess14.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\klasaProcess14\klasaProcess14\obj\Debug\klasaProcess14.Form1.resources
+C:\Users\Stefano\source\repos\klasaProcess14\klasaProcess14\obj\Debug\klasaProcess14.Properties.Resources.resources
+C:\Users\Stefano\source\repos\klasaProcess14\klasaProcess14\obj\Debug\klasaProcess14.csproj.GenerateResource.cache
+C:\Users\Stefano\source\repos\klasaProcess14\klasaProcess14\obj\Debug\klasaProcess14.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\klasaProcess14\klasaProcess14\obj\Debug\klasaProcess14.exe
+C:\Users\Stefano\source\repos\klasaProcess14\klasaProcess14\obj\Debug\klasaProcess14.pdb
