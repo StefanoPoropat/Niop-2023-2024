@@ -1,0 +1,10 @@
+C:\Users\Stefano\source\repos\dialogResultKontrola13\dialogResultKontrola13\bin\Debug\dialogResultKontrola13.exe.config
+C:\Users\Stefano\source\repos\dialogResultKontrola13\dialogResultKontrola13\bin\Debug\dialogResultKontrola13.exe
+C:\Users\Stefano\source\repos\dialogResultKontrola13\dialogResultKontrola13\bin\Debug\dialogResultKontrola13.pdb
+C:\Users\Stefano\source\repos\dialogResultKontrola13\dialogResultKontrola13\obj\Debug\dialogResultKontrola13.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\dialogResultKontrola13\dialogResultKontrola13\obj\Debug\dialogResultKontrola13.Form1.resources
+C:\Users\Stefano\source\repos\dialogResultKontrola13\dialogResultKontrola13\obj\Debug\dialogResultKontrola13.Properties.Resources.resources
+C:\Users\Stefano\source\repos\dialogResultKontrola13\dialogResultKontrola13\obj\Debug\dialogResultKontrola13.csproj.GenerateResource.cache
+C:\Users\Stefano\source\repos\dialogResultKontrola13\dialogResultKontrola13\obj\Debug\dialogResultKontrola13.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\dialogResultKontrola13\dialogResultKontrola13\obj\Debug\dialogResultKontrola13.exe
+C:\Users\Stefano\source\repos\dialogResultKontrola13\dialogResultKontrola13\obj\Debug\dialogResultKontrola13.pdb
