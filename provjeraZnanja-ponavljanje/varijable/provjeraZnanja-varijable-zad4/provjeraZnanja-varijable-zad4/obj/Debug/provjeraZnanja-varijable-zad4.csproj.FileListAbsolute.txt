@@ -1,0 +1,8 @@
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad4\provjeraZnanja-varijable-zad4\bin\Debug\provjeraZnanja-varijable-zad4.exe.config
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad4\provjeraZnanja-varijable-zad4\bin\Debug\provjeraZnanja-varijable-zad4.exe
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad4\provjeraZnanja-varijable-zad4\bin\Debug\provjeraZnanja-varijable-zad4.pdb
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad4\provjeraZnanja-varijable-zad4\obj\Debug\provjeraZnanja-varijable-zad4.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad4\provjeraZnanja-varijable-zad4\obj\Debug\provjeraZnanja-varijable-zad4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad4\provjeraZnanja-varijable-zad4\obj\Debug\provjeraZnanja-varijable-zad4.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad4\provjeraZnanja-varijable-zad4\obj\Debug\provjeraZnanja-varijable-zad4.exe
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad4\provjeraZnanja-varijable-zad4\obj\Debug\provjeraZnanja-varijable-zad4.pdb
