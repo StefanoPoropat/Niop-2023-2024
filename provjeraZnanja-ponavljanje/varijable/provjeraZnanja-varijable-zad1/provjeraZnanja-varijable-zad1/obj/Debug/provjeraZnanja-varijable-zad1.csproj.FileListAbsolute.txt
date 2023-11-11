@@ -1,0 +1,15 @@
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\bin\Debug\provjeraZnanja-varijable-zad1.exe.config
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\bin\Debug\provjeraZnanja-varijable-zad1.exe
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\bin\Debug\provjeraZnanja-varijable-zad1.pdb
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\obj\Debug\provjeraZnanja-varijable-zad1.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\obj\Debug\provjeraZnanja-varijable-zad1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\obj\Debug\provjeraZnanja-varijable-zad1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\obj\Debug\provjeraZnanja-varijable-zad1.exe
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\obj\Debug\provjeraZnanja-varijable-zad1.pdb
+C:\Users\Stefano\Downloads\StefanoPoropat Niop-2023-2024 main provjeraZnanja-ponavljanje-varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\bin\Debug\provjeraZnanja-varijable-zad1.exe.config
+C:\Users\Stefano\Downloads\StefanoPoropat Niop-2023-2024 main provjeraZnanja-ponavljanje-varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\bin\Debug\provjeraZnanja-varijable-zad1.exe
+C:\Users\Stefano\Downloads\StefanoPoropat Niop-2023-2024 main provjeraZnanja-ponavljanje-varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\bin\Debug\provjeraZnanja-varijable-zad1.pdb
+C:\Users\Stefano\Downloads\StefanoPoropat Niop-2023-2024 main provjeraZnanja-ponavljanje-varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\obj\Debug\provjeraZnanja-varijable-zad1.csproj.AssemblyReference.cache
+C:\Users\Stefano\Downloads\StefanoPoropat Niop-2023-2024 main provjeraZnanja-ponavljanje-varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\obj\Debug\provjeraZnanja-varijable-zad1.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\Downloads\StefanoPoropat Niop-2023-2024 main provjeraZnanja-ponavljanje-varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\obj\Debug\provjeraZnanja-varijable-zad1.exe
+C:\Users\Stefano\Downloads\StefanoPoropat Niop-2023-2024 main provjeraZnanja-ponavljanje-varijable\provjeraZnanja-varijable-zad1\provjeraZnanja-varijable-zad1\obj\Debug\provjeraZnanja-varijable-zad1.pdb
