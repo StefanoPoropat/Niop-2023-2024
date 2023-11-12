@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "provjeraZnanja-petlje-zad1", "provjeraZnanja-petlje-zad1\provjeraZnanja-petlje-zad1.csproj", "{B5BAA8A8-2566-4E94-9DB7-B9346237DB7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5BAA8A8-2566-4E94-9DB7-B9346237DB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5BAA8A8-2566-4E94-9DB7-B9346237DB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5BAA8A8-2566-4E94-9DB7-B9346237DB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5BAA8A8-2566-4E94-9DB7-B9346237DB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2D0AC0B-9D9B-4817-A7D8-511A0ACF74BF}
+	EndGlobalSection
+EndGlobal

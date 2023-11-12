@@ -1,0 +1,7 @@
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\petlje\provjeraZnanja-petlje-zad3\provjeraZnanja-petlje-zad3\bin\Debug\provjeraZnanja-petlje-zad3.exe.config
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\petlje\provjeraZnanja-petlje-zad3\provjeraZnanja-petlje-zad3\bin\Debug\provjeraZnanja-petlje-zad3.exe
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\petlje\provjeraZnanja-petlje-zad3\provjeraZnanja-petlje-zad3\bin\Debug\provjeraZnanja-petlje-zad3.pdb
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\petlje\provjeraZnanja-petlje-zad3\provjeraZnanja-petlje-zad3\obj\Debug\provjeraZnanja-petlje-zad3.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\petlje\provjeraZnanja-petlje-zad3\provjeraZnanja-petlje-zad3\obj\Debug\provjeraZnanja-petlje-zad3.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\petlje\provjeraZnanja-petlje-zad3\provjeraZnanja-petlje-zad3\obj\Debug\provjeraZnanja-petlje-zad3.exe
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\petlje\provjeraZnanja-petlje-zad3\provjeraZnanja-petlje-zad3\obj\Debug\provjeraZnanja-petlje-zad3.pdb
