@@ -1,0 +1,7 @@
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\nizovi\provjeraZnanja-nizovi-zad1\provjeraZnanja-nizovi-zad1\bin\Debug\provjeraZnanja-nizovi-zad1.exe.config
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\nizovi\provjeraZnanja-nizovi-zad1\provjeraZnanja-nizovi-zad1\bin\Debug\provjeraZnanja-nizovi-zad1.exe
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\nizovi\provjeraZnanja-nizovi-zad1\provjeraZnanja-nizovi-zad1\bin\Debug\provjeraZnanja-nizovi-zad1.pdb
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\nizovi\provjeraZnanja-nizovi-zad1\provjeraZnanja-nizovi-zad1\obj\Debug\provjeraZnanja-nizovi-zad1.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\nizovi\provjeraZnanja-nizovi-zad1\provjeraZnanja-nizovi-zad1\obj\Debug\provjeraZnanja-nizovi-zad1.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\nizovi\provjeraZnanja-nizovi-zad1\provjeraZnanja-nizovi-zad1\obj\Debug\provjeraZnanja-nizovi-zad1.exe
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\nizovi\provjeraZnanja-nizovi-zad1\provjeraZnanja-nizovi-zad1\obj\Debug\provjeraZnanja-nizovi-zad1.pdb
