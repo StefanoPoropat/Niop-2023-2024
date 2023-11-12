@@ -1,0 +1,14 @@
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\bin\Debug\provjeraZnanja-ktp-zad2.exe.config
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\bin\Debug\provjeraZnanja-ktp-zad2.exe
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\bin\Debug\provjeraZnanja-ktp-zad2.pdb
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\obj\Debug\provjeraZnanja-ktp-zad2.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\obj\Debug\provjeraZnanja-ktp-zad2.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\obj\Debug\provjeraZnanja-ktp-zad2.exe
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\obj\Debug\provjeraZnanja-ktp-zad2.pdb
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\bin\Debug\provjeraZnanja-ktp-zad2.exe.config
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\bin\Debug\provjeraZnanja-ktp-zad2.exe
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\bin\Debug\provjeraZnanja-ktp-zad2.pdb
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\obj\Debug\provjeraZnanja-ktp-zad2.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\obj\Debug\provjeraZnanja-ktp-zad2.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\obj\Debug\provjeraZnanja-ktp-zad2.exe
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-ktp-zad2\provjeraZnanja-ktp-zad2\obj\Debug\provjeraZnanja-ktp-zad2.pdb

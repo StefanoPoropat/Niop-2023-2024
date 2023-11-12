@@ -1,0 +1,7 @@
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad1\provjeraZnanja-ktp-zad1\bin\Debug\provjeraZnanja-ktp-zad1.exe.config
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad1\provjeraZnanja-ktp-zad1\bin\Debug\provjeraZnanja-ktp-zad1.exe
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad1\provjeraZnanja-ktp-zad1\bin\Debug\provjeraZnanja-ktp-zad1.pdb
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad1\provjeraZnanja-ktp-zad1\obj\Debug\provjeraZnanja-ktp-zad1.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad1\provjeraZnanja-ktp-zad1\obj\Debug\provjeraZnanja-ktp-zad1.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad1\provjeraZnanja-ktp-zad1\obj\Debug\provjeraZnanja-ktp-zad1.exe
+C:\Users\Stefano\source\repos\provjeraZnanja-ponavljanje\provjeraZnanja-ktp-zad1\provjeraZnanja-ktp-zad1\obj\Debug\provjeraZnanja-ktp-zad1.pdb
