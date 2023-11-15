@@ -1,0 +1,8 @@
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-Zad2\provjeraZnanja-Zad2\bin\Debug\provjeraZnanja-Zad2.exe.config
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-Zad2\provjeraZnanja-Zad2\bin\Debug\provjeraZnanja-Zad2.exe
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-Zad2\provjeraZnanja-Zad2\bin\Debug\provjeraZnanja-Zad2.pdb
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-Zad2\provjeraZnanja-Zad2\obj\Debug\provjeraZnanja-Zad2.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-Zad2\provjeraZnanja-Zad2\obj\Debug\provjeraZnanja-Zad2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-Zad2\provjeraZnanja-Zad2\obj\Debug\provjeraZnanja-Zad2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-Zad2\provjeraZnanja-Zad2\obj\Debug\provjeraZnanja-Zad2.exe
+C:\Users\ucenik\Downloads\provjeraZnanja-ponavljanje\kontrola_toka_programa\provjeraZnanja-Zad2\provjeraZnanja-Zad2\obj\Debug\provjeraZnanja-Zad2.pdb
