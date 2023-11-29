@@ -1,0 +1,8 @@
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\objektno\objektno\bin\Debug\objektno.exe.config
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\objektno\objektno\bin\Debug\objektno.exe
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\objektno\objektno\bin\Debug\objektno.pdb
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\objektno\objektno\obj\Debug\objektno.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\objektno\objektno\obj\Debug\objektno.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\objektno\objektno\obj\Debug\objektno.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\objektno\objektno\obj\Debug\objektno.exe
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\objektno\objektno\obj\Debug\objektno.pdb

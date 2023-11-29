@@ -1,0 +1,8 @@
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\klaseIObjekti\klaseIObjekti\bin\Debug\klaseIObjekti.exe.config
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\klaseIObjekti\klaseIObjekti\bin\Debug\klaseIObjekti.exe
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\klaseIObjekti\klaseIObjekti\bin\Debug\klaseIObjekti.pdb
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\klaseIObjekti\klaseIObjekti\obj\Debug\klaseIObjekti.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\klaseIObjekti\klaseIObjekti\obj\Debug\klaseIObjekti.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\klaseIObjekti\klaseIObjekti\obj\Debug\klaseIObjekti.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\klaseIObjekti\klaseIObjekti\obj\Debug\klaseIObjekti.exe
+C:\Users\ucenik\Downloads\repos\objektnoProgramiranje\klaseIObjekti\klaseIObjekti\obj\Debug\klaseIObjekti.pdb
