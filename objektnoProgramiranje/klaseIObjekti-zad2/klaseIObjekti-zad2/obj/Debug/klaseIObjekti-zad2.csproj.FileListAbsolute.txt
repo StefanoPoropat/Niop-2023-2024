@@ -1,0 +1,7 @@
+C:\Users\Stefano\source\repos\klaseIObjekti\klaseIObjekti-zad2\klaseIObjekti-zad2\bin\Debug\klaseIObjekti-zad2.exe.config
+C:\Users\Stefano\source\repos\klaseIObjekti\klaseIObjekti-zad2\klaseIObjekti-zad2\bin\Debug\klaseIObjekti-zad2.exe
+C:\Users\Stefano\source\repos\klaseIObjekti\klaseIObjekti-zad2\klaseIObjekti-zad2\bin\Debug\klaseIObjekti-zad2.pdb
+C:\Users\Stefano\source\repos\klaseIObjekti\klaseIObjekti-zad2\klaseIObjekti-zad2\obj\Debug\klaseIObjekti-zad2.csproj.AssemblyReference.cache
+C:\Users\Stefano\source\repos\klaseIObjekti\klaseIObjekti-zad2\klaseIObjekti-zad2\obj\Debug\klaseIObjekti-zad2.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\source\repos\klaseIObjekti\klaseIObjekti-zad2\klaseIObjekti-zad2\obj\Debug\klaseIObjekti-zad2.exe
+C:\Users\Stefano\source\repos\klaseIObjekti\klaseIObjekti-zad2\klaseIObjekti-zad2\obj\Debug\klaseIObjekti-zad2.pdb
