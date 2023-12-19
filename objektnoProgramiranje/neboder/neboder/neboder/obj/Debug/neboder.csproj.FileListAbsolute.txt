@@ -1,0 +1,8 @@
+C:\Users\ucenik\Downloads\neboder\neboder\neboder\bin\Debug\neboder.exe.config
+C:\Users\ucenik\Downloads\neboder\neboder\neboder\bin\Debug\neboder.exe
+C:\Users\ucenik\Downloads\neboder\neboder\neboder\bin\Debug\neboder.pdb
+C:\Users\ucenik\Downloads\neboder\neboder\neboder\obj\Debug\neboder.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\neboder\neboder\neboder\obj\Debug\neboder.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Downloads\neboder\neboder\neboder\obj\Debug\neboder.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\neboder\neboder\neboder\obj\Debug\neboder.exe
+C:\Users\ucenik\Downloads\neboder\neboder\neboder\obj\Debug\neboder.pdb
