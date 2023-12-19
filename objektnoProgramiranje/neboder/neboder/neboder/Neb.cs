@@ -30,7 +30,7 @@ namespace neboder
             visina += 10;
             brKatova += 1;
             double avgKat = visina / brKatova;
-            string str = "Visina: " + visina + "\nBroj katova: " + brKatova + "\nAvg visina kata: " + avgKat;
+            string str = "Visina: " + visina + "\nBroj katova: " + brKatova + "\nAvg visina kata: " + avgKat + "metara";
             return str;
         }
     }
