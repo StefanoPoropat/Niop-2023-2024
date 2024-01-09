@@ -1,0 +1,7 @@
+C:\Users\ucenik\Downloads\neboder\razredVozilo\razredVozilo\bin\Debug\razredVozilo.exe.config
+C:\Users\ucenik\Downloads\neboder\razredVozilo\razredVozilo\bin\Debug\razredVozilo.exe
+C:\Users\ucenik\Downloads\neboder\razredVozilo\razredVozilo\bin\Debug\razredVozilo.pdb
+C:\Users\ucenik\Downloads\neboder\razredVozilo\razredVozilo\obj\Debug\razredVozilo.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\neboder\razredVozilo\razredVozilo\obj\Debug\razredVozilo.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\neboder\razredVozilo\razredVozilo\obj\Debug\razredVozilo.exe
+C:\Users\ucenik\Downloads\neboder\razredVozilo\razredVozilo\obj\Debug\razredVozilo.pdb
