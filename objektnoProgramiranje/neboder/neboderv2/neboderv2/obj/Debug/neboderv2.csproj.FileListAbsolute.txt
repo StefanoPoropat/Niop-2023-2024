@@ -1,0 +1,7 @@
+C:\Users\ucenik\Downloads\neboder\neboderv2\neboderv2\bin\Debug\neboderv2.exe.config
+C:\Users\ucenik\Downloads\neboder\neboderv2\neboderv2\bin\Debug\neboderv2.exe
+C:\Users\ucenik\Downloads\neboder\neboderv2\neboderv2\bin\Debug\neboderv2.pdb
+C:\Users\ucenik\Downloads\neboder\neboderv2\neboderv2\obj\Debug\neboderv2.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\neboder\neboderv2\neboderv2\obj\Debug\neboderv2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\neboder\neboderv2\neboderv2\obj\Debug\neboderv2.exe
+C:\Users\ucenik\Downloads\neboder\neboderv2\neboderv2\obj\Debug\neboderv2.pdb
