@@ -1,0 +1,7 @@
+C:\Users\ucenik\Downloads\something\dot\dot\bin\Debug\dot.exe.config
+C:\Users\ucenik\Downloads\something\dot\dot\bin\Debug\dot.exe
+C:\Users\ucenik\Downloads\something\dot\dot\bin\Debug\dot.pdb
+C:\Users\ucenik\Downloads\something\dot\dot\obj\Debug\dot.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\something\dot\dot\obj\Debug\dot.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\something\dot\dot\obj\Debug\dot.exe
+C:\Users\ucenik\Downloads\something\dot\dot\obj\Debug\dot.pdb
