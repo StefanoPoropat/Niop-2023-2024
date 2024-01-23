@@ -1,0 +1,7 @@
+C:\Users\ucenik\Downloads\23.1.2024\ponavljanje-Klase\klase\klase\bin\Debug\klase.exe.config
+C:\Users\ucenik\Downloads\23.1.2024\ponavljanje-Klase\klase\klase\bin\Debug\klase.exe
+C:\Users\ucenik\Downloads\23.1.2024\ponavljanje-Klase\klase\klase\bin\Debug\klase.pdb
+C:\Users\ucenik\Downloads\23.1.2024\ponavljanje-Klase\klase\klase\obj\Debug\klase.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\23.1.2024\ponavljanje-Klase\klase\klase\obj\Debug\klase.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\23.1.2024\ponavljanje-Klase\klase\klase\obj\Debug\klase.exe
+C:\Users\ucenik\Downloads\23.1.2024\ponavljanje-Klase\klase\klase\obj\Debug\klase.pdb
