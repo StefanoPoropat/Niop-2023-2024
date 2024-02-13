@@ -6,6 +6,11 @@ public class Osoba
     private string m_ime;
     private string m_prezime;
 
+    public Osoba(string ime, string prezime)
+    {
+        this.ime = ime;
+        this.prezime = prezime;
+    }
 
     public string ime
     {

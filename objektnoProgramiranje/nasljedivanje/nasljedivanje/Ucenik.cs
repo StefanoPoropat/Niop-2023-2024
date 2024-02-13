@@ -4,7 +4,10 @@ using System;
 public class Ucenik : Osoba
 {
 
-    public Ucenik() { }
+    public Ucenik(string ime, string prezime, string razred) : base (ime, prezime) 
+    {
+        m_razred = razred;
+    }
     private string m_razred;
 
     public string razred

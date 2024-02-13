@@ -11,15 +11,8 @@ namespace Nasljedjivanje
         
         static void Main(string[] args)
         {
-
-            Osoba osoba = new Osoba();
-            Ucenik ucenik = new Ucenik();
-
-            osoba.ime = "Ivano";
-            osoba.prezime = "Ivanic";
-            ucenik.ime = "Matko";
-            ucenik.prezime = "Peric";
-            ucenik.razred = "3.d";
+            Osoba osoba = new Osoba("Ivano","Ivanic");
+            Ucenik ucenik = new Ucenik("Matko", "Peric", "3.d");
 
             osoba.ispis();
             ucenik.ispis();
