@@ -1,0 +1,7 @@
+C:\Users\ucenik\Downloads\23.1.2024\nasljeđivanje\nasljedivanje\nasljedivanje\bin\Debug\nasljedivanje.exe.config
+C:\Users\ucenik\Downloads\23.1.2024\nasljeđivanje\nasljedivanje\nasljedivanje\bin\Debug\nasljedivanje.exe
+C:\Users\ucenik\Downloads\23.1.2024\nasljeđivanje\nasljedivanje\nasljedivanje\bin\Debug\nasljedivanje.pdb
+C:\Users\ucenik\Downloads\23.1.2024\nasljeđivanje\nasljedivanje\nasljedivanje\obj\Debug\nasljedivanje.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\23.1.2024\nasljeđivanje\nasljedivanje\nasljedivanje\obj\Debug\nasljedivanje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\23.1.2024\nasljeđivanje\nasljedivanje\nasljedivanje\obj\Debug\nasljedivanje.exe
+C:\Users\ucenik\Downloads\23.1.2024\nasljeđivanje\nasljedivanje\nasljedivanje\obj\Debug\nasljedivanje.pdb
