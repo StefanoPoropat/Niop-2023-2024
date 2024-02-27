@@ -1,0 +1,7 @@
+C:\Users\ucenik\Downloads\Nova mapa\example-GeoBody\example-GeoBody\bin\Debug\example-GeoBody.exe.config
+C:\Users\ucenik\Downloads\Nova mapa\example-GeoBody\example-GeoBody\bin\Debug\example-GeoBody.exe
+C:\Users\ucenik\Downloads\Nova mapa\example-GeoBody\example-GeoBody\bin\Debug\example-GeoBody.pdb
+C:\Users\ucenik\Downloads\Nova mapa\example-GeoBody\example-GeoBody\obj\Debug\example-GeoBody.csproj.AssemblyReference.cache
+C:\Users\ucenik\Downloads\Nova mapa\example-GeoBody\example-GeoBody\obj\Debug\example-GeoBody.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Downloads\Nova mapa\example-GeoBody\example-GeoBody\obj\Debug\example-GeoBody.exe
+C:\Users\ucenik\Downloads\Nova mapa\example-GeoBody\example-GeoBody\obj\Debug\example-GeoBody.pdb
