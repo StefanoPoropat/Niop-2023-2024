@@ -1,0 +1,7 @@
+C:\Users\Stefano\Downloads\GameOne\objektnoProgramiranje\Nova mapa\game-TestOne\gameOne\gameOne\obj\Debug\gameOne.csproj.AssemblyReference.cache
+C:\Users\Stefano\Downloads\GameOne\objektnoProgramiranje\Nova mapa\game-TestOne\gameOne\gameOne\obj\Debug\gameOne.csproj.CoreCompileInputs.cache
+C:\Users\Stefano\Downloads\GameOne\objektnoProgramiranje\Nova mapa\game-TestOne\gameOne\gameOne\bin\Debug\gameOne.exe.config
+C:\Users\Stefano\Downloads\GameOne\objektnoProgramiranje\Nova mapa\game-TestOne\gameOne\gameOne\bin\Debug\gameOne.exe
+C:\Users\Stefano\Downloads\GameOne\objektnoProgramiranje\Nova mapa\game-TestOne\gameOne\gameOne\bin\Debug\gameOne.pdb
+C:\Users\Stefano\Downloads\GameOne\objektnoProgramiranje\Nova mapa\game-TestOne\gameOne\gameOne\obj\Debug\gameOne.exe
+C:\Users\Stefano\Downloads\GameOne\objektnoProgramiranje\Nova mapa\game-TestOne\gameOne\gameOne\obj\Debug\gameOne.pdb
